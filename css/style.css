@@ -1,0 +1,26 @@
+.conteiner {
+  margin-top: 15%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background-color: whitesmoke;
+  border-radius: 24px;
+  width: 40%;
+  display: flex;
+  justify-content: center;
+}
+
+.textBox {
+  width: 35px;
+}
+
+table {
+  margin-bottom: 25px;
+}
+
+label {
+  width: 200px;
+}
